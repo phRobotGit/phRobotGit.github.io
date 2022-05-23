@@ -4,6 +4,164 @@
   
     
     <entry>
+      <title>Machine Learning Bedtime Stories - (1)</title>
+      <link href="/2022/05/23/MLbs1/"/>
+      <url>/2022/05/23/MLbs1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-What-is-Machine-Learning-ML"><a href="#1-What-is-Machine-Learning-ML" class="headerlink" title="1. What is Machine Learning (ML)?"></a>1. What is Machine Learning (ML)?</h1><p><strong>ML (or AI) is a statistical tool for observing the world.</strong>  We human can only see how the data presents itself, but ML can help us observe the patterns behind the data (or the distribution of the generated data). Furthermore, Universal approximation theorem tells us how ML works, and Plato’s Allegory of the cave explains why we need ML.</p><p><strong>ML（或 AI）是一种观察世界的统计工具。</strong>我们人类只能看到数据如何呈现自己，但 ML 可以帮助我们观察数据背后的模式（或生成数据的分布）。 此外，通用逼近定理告诉我们机器学习是如何工作的，柏拉图的洞穴寓言解释了为什么我们需要机器学习。</p><p><strong>Universal approximation theorem:</strong> Mathematically speaking, any neural network architecture aims at finding any mathematical function y&#x3D; f(x) that can map attributes(x) to output(y). The accuracy of this function i.e. mapping differs depending on the distribution of the dataset and the architecture of the network employed. The function f(x) can be arbitrarily complex. The Universal Approximation Theorem tells us that Neural Networks has a kind of <strong>universality</strong> i.e. no matter what f(x) is, there is a network that can approximately approach the result and do the job! This result holds for any number of inputs and outputs.</p><p><strong>通用逼近定理</strong> 从数学上讲，任何神经网络架构都旨在找到可以将属性（x）映射到输出（y）的任何数学函数 y&#x3D; f(x)。 该函数的准确性（即映射）因数据集的分布和所采用的网络架构而异。 函数 f(x) 可以是任意复杂的。 通用逼近定理告诉我们，神经网络具有一种<strong>普遍性</strong>，即无论 f(x) 是多少，都有一个网络可以近似地逼近结果并完成工作！ 该结果适用于任意数量的输入和输出。</p><p><strong>Plato’s Allegory of the Cave:</strong> In the allegory “The Cave,” Socrates describes a group of people who have lived chained to the wall of a cave all their lives, facing a blank wall. The people watch shadows projected on the wall from objects passing in front of a fire behind them and give names to these shadows. The shadows are the prisoners’ reality, but are not accurate representations of the real world. The shadows represent the fragment of reality that we can normally perceive through our senses, while the objects under the sun represent the true forms of objects that we can only perceive through reason. </p><p><strong>柏拉图的洞穴寓言：</strong>在寓言“洞穴”中，苏格拉底描述了一群一生被锁在洞穴墙壁上的人，面对一堵空白的墙壁。 人们看着从他们身后的火堆前经过的物体投射在墙上的阴影，并为这些阴影命名。 阴影是囚犯的现实，但不是现实世界的准确表示。 阴影代表我们通常可以通过感官感知的现实片段，而阳光下的物体代表我们只能通过理性感知的物体的真实形式。</p><p>![](.&#x2F;MLbs1&#x2F;allegory of cave.jpg)</p><h1 id="2-Black-Box"><a href="#2-Black-Box" class="headerlink" title="2. Black-Box?"></a>2. Black-Box?</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machine Learning Bedtime Stories </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Machine Learning || 机器学习 </tag>
+            
+            <tag> Codes || 代码 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Asset Management in Textbooks - (1)</title>
+      <link href="/2022/05/23/Crypto-Investment/AssetM/"/>
+      <url>/2022/05/23/Crypto-Investment/AssetM/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Asset Management in Textbooks </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Investment || 投资 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>BTC GAME - (1)</title>
+      <link href="/2022/05/23/Crypto-Investment/Bitcoin1/"/>
+      <url>/2022/05/23/Crypto-Investment/Bitcoin1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> BTC GAME </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Investment || 投资 </tag>
+            
+            <tag> Bitcoin || 比特币 </tag>
+            
+            <tag> Crypto || 加密货币 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Exploratory Data Analysis || 探索性数据分析</title>
+      <link href="/2022/05/23/Data%20Analysis/EDA/"/>
+      <url>/2022/05/23/Data%20Analysis/EDA/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data Analysis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> EDA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>How to build a dashboard/report || 打造可视化报表</title>
+      <link href="/2022/05/23/Data%20Analysis/report/"/>
+      <url>/2022/05/23/Data%20Analysis/report/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data Analysis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Dashboard || 可视化报表 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Machine Learning Bedtime Stories - (1)</title>
+      <link href="/2022/05/23/ML-bedtime-story/MLbs1/"/>
+      <url>/2022/05/23/ML-bedtime-story/MLbs1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-What-is-Machine-Learning-ML"><a href="#1-What-is-Machine-Learning-ML" class="headerlink" title="1. What is Machine Learning (ML)?"></a>1. What is Machine Learning (ML)?</h1><p><strong>ML (or AI) is a statistical tool for observing the world.</strong>  We human can only see how the data presents itself, but ML can help us observe the patterns behind the data (or the distribution of the generated data). Furthermore, Universal approximation theorem tells us how ML works, and Plato’s Allegory of the cave explains why we need ML.</p><p><strong>ML（或 AI）是一种观察世界的统计工具。</strong>我们人类只能看到数据如何呈现自己，但 ML 可以帮助我们观察数据背后的模式（或生成数据的分布）。 此外，通用逼近定理告诉我们机器学习是如何工作的，柏拉图的洞穴寓言解释了为什么我们需要机器学习。</p><p><strong>Universal approximation theorem:</strong> Mathematically speaking, any neural network architecture aims at finding any mathematical function y&#x3D; f(x) that can map attributes(x) to output(y). The accuracy of this function i.e. mapping differs depending on the distribution of the dataset and the architecture of the network employed. The function f(x) can be arbitrarily complex. The Universal Approximation Theorem tells us that Neural Networks has a kind of <strong>universality</strong> i.e. no matter what f(x) is, there is a network that can approximately approach the result and do the job! This result holds for any number of inputs and outputs.</p><p><strong>通用逼近定理</strong> 从数学上讲，任何神经网络架构都旨在找到可以将属性（x）映射到输出（y）的任何数学函数 y&#x3D; f(x)。 该函数的准确性（即映射）因数据集的分布和所采用的网络架构而异。 函数 f(x) 可以是任意复杂的。 通用逼近定理告诉我们，神经网络具有一种<strong>普遍性</strong>，即无论 f(x) 是多少，都有一个网络可以近似地逼近结果并完成工作！ 该结果适用于任意数量的输入和输出。</p><p><strong>Plato’s Allegory of the Cave:</strong> In the allegory “The Cave,” Socrates describes a group of people who have lived chained to the wall of a cave all their lives, facing a blank wall. The people watch shadows projected on the wall from objects passing in front of a fire behind them and give names to these shadows. The shadows are the prisoners’ reality, but are not accurate representations of the real world. The shadows represent the fragment of reality that we can normally perceive through our senses, while the objects under the sun represent the true forms of objects that we can only perceive through reason. </p><p><strong>柏拉图的洞穴寓言：</strong>在寓言“洞穴”中，苏格拉底描述了一群一生被锁在洞穴墙壁上的人，面对一堵空白的墙壁。 人们看着从他们身后的火堆前经过的物体投射在墙上的阴影，并为这些阴影命名。 阴影是囚犯的现实，但不是现实世界的准确表示。 阴影代表我们通常可以通过感官感知的现实片段，而阳光下的物体代表我们只能通过理性感知的物体的真实形式。</p><p>![Plato’s Allegory of the Cave](.&#x2F;MLbs1&#x2F;allegory of cave.jpg)</p><h1 id="2-Black-Box"><a href="#2-Black-Box" class="headerlink" title="2. Black-Box?"></a>2. Black-Box?</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machine Learning Bedtime Stories </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Machine Learning || 机器学习 </tag>
+            
+            <tag> Codes || 代码 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/05/22/hello-world/"/>
       <url>/2022/05/22/hello-world/</url>
@@ -24,10 +182,20 @@
         <content type="html"><![CDATA[<h1 id="标题1："><a href="#标题1：" class="headerlink" title="标题1："></a>标题1：</h1><h2 id="ssaa"><a href="#ssaa" class="headerlink" title="ssaa"></a>ssaa</h2><p>sasas</p><h1 id="标题2："><a href="#标题2：" class="headerlink" title="标题2："></a>标题2：</h1><p>@</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="keyword">import</span> altair <span class="keyword">as</span> alt</span><br><span class="line"><span class="keyword">import</span> matplotlib.pyplot <span class="keyword">as</span> plt</span><br><span class="line"></span><br><span class="line"><span class="comment"># In the code, the names of variable refer to the above mathematical derivation</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">calculate_derivative_decorator</span>(<span class="params">func, delta = <span class="number">0.001</span></span>):</span><br><span class="line">    <span class="comment"># This is a decorator, for calculating derivative </span></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">wrapper</span>(<span class="params">*args, **kwargs</span>):    </span><br><span class="line">        x0 = args[<span class="number">0</span>]</span><br><span class="line">        x2 = x0 + delta</span><br><span class="line">        y2 = func(x2, **kwargs)</span><br><span class="line">        </span><br><span class="line">        x1 = x0 - delta</span><br><span class="line">        y1 = func(x1, **kwargs)</span><br><span class="line"></span><br><span class="line">        derivative = (y2 -y1)/(x2-x1)</span><br><span class="line">        result = func(*args, **kwargs)</span><br><span class="line">        <span class="keyword">return</span> derivative</span><br><span class="line">    <span class="keyword">return</span> wrapper</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">calculate_P_win_a_game</span>(<span class="params">p, if_tie_break =<span class="literal">False</span></span>): </span><br><span class="line">    p_win_deduce = p**<span class="number">2</span> / ( <span class="number">1</span> - <span class="number">2</span> * p * ( <span class="number">1</span> - p ) )</span><br><span class="line">    p_game_d = ( <span class="number">20</span> * p**<span class="number">5</span> * (<span class="number">1</span>-p)**<span class="number">3</span> ) / ( <span class="number">1</span> - <span class="number">2</span> * p * (<span class="number">1</span>-p) )</span><br><span class="line">    <span class="keyword">if</span> if_tie_break == <span class="literal">False</span>:</span><br><span class="line">        p_win_a_game = p**<span class="number">4</span> + <span class="number">4</span> * p**<span class="number">4</span> * (<span class="number">1</span>-p) + <span class="number">10</span> * p**<span class="number">4</span> * (<span class="number">1</span>-p)**<span class="number">2</span> + p_game_d</span><br><span class="line">    <span class="keyword">else</span>:</span><br><span class="line">        p_win_a_game = np.<span class="built_in">sum</span>([p**<span class="number">7</span>,</span><br><span class="line">                               <span class="number">7</span> * p**<span class="number">7</span> * (<span class="number">1</span>-p),</span><br><span class="line">                               <span class="number">28</span> * p**<span class="number">7</span> * (<span class="number">1</span>-p)**<span class="number">2</span>,</span><br><span class="line">                               <span class="number">84</span> * p**<span class="number">7</span> * (<span class="number">1</span>-p)**<span class="number">3</span>,</span><br><span class="line">                               <span class="number">210</span> * p**<span class="number">7</span> * (<span class="number">1</span>-p)**<span class="number">4</span>,</span><br><span class="line">                               <span class="number">462</span> * p**<span class="number">7</span> * (<span class="number">1</span>-p)**<span class="number">5</span>,</span><br><span class="line">                               <span class="number">924</span> * p**<span class="number">6</span> * (<span class="number">1</span>-p)**<span class="number">6</span> * p_win_deduce]) </span><br><span class="line">    <span class="keyword">return</span>( p_win_a_game )</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">calculate_P_win_a_set</span>(<span class="params">p, <span class="built_in">type</span>=<span class="string">&#x27;all&#x27;</span></span>):</span><br><span class="line">    q = calculate_P_win_a_game(p)</span><br><span class="line">    p_win_tie_break = calculate_P_win_a_game(p, if_tie_break=<span class="literal">True</span>)</span><br><span class="line">    p_set_60 = q**<span class="number">6</span></span><br><span class="line">    p_set_61 = <span class="number">6</span>* q**<span class="number">6</span> * (<span class="number">1</span>-q)</span><br><span class="line">    p_set_62 = <span class="number">21</span>* q**<span class="number">6</span> * (<span class="number">1</span>-q)**<span class="number">2</span></span><br><span class="line">    p_set_63 = <span class="number">56</span>* q**<span class="number">6</span> * (<span class="number">1</span>-q)**<span class="number">3</span></span><br><span class="line">    p_set_64 = <span class="number">126</span>* q**<span class="number">6</span> * (<span class="number">1</span>-q)**<span class="number">4</span></span><br><span class="line">    p_set_75 = <span class="number">252</span>* q**<span class="number">7</span> * (<span class="number">1</span>-q)**<span class="number">5</span></span><br><span class="line">    p_set_76 = <span class="number">504</span>* q**<span class="number">6</span> * (<span class="number">1</span>-q)**<span class="number">6</span> * p_win_tie_break</span><br><span class="line">    p_set_all = p_set_60 + p_set_61 + p_set_62 + p_set_63 + p_set_64 + p_set_75 +p_set_76</span><br><span class="line">    d = &#123;<span class="string">&#x27;6:0&#x27;</span>:p_set_60, </span><br><span class="line">         <span class="string">&#x27;6:1&#x27;</span>:p_set_61,</span><br><span class="line">         <span class="string">&#x27;6:2&#x27;</span>:p_set_62,</span><br><span class="line">         <span class="string">&#x27;6:3&#x27;</span>:p_set_63,</span><br><span class="line">         <span class="string">&#x27;6:4&#x27;</span>:p_set_64,</span><br><span class="line">         <span class="string">&#x27;7:5&#x27;</span>:p_set_75,</span><br><span class="line">         <span class="string">&#x27;7:6&#x27;</span>:p_set_76,</span><br><span class="line">         <span class="string">&#x27;all&#x27;</span>:p_set_all   &#125;</span><br><span class="line">    <span class="keyword">return</span>(d[<span class="built_in">type</span>])</span><br><span class="line"></span><br><span class="line"><span class="meta">@ calculate_derivative_decorator</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">calculate_derivative_P_win_set</span>(<span class="params">p, <span class="built_in">type</span>=<span class="string">&#x27;all&#x27;</span></span>):</span><br><span class="line">    <span class="keyword">return</span>( calculate_P_win_a_set(p, <span class="built_in">type</span>) )</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">calculate_everything</span>(<span class="params">p_list</span>) -&gt; pd.DataFrame:</span><br><span class="line">    <span class="comment"># the function is like a api for computating everything </span></span><br><span class="line">    x = p_list</span><br><span class="line">    df = pd.DataFrame(&#123;</span><br><span class="line">        <span class="string">&#x27;P_win_set_by_6:0&#x27;</span>: [calculate_P_win_a_set(_, <span class="built_in">type</span>=<span class="string">&#x27;6:0&#x27;</span>) <span class="keyword">for</span> _ <span class="keyword">in</span> x],</span><br><span class="line">        <span class="string">&#x27;P_win_set_by_6:1&#x27;</span>: [calculate_P_win_a_set(_, <span class="built_in">type</span>=<span class="string">&#x27;6:1&#x27;</span>) <span class="keyword">for</span> _ <span class="keyword">in</span> x],</span><br><span class="line">        <span class="string">&#x27;P_win_set_by_6:2&#x27;</span>: [calculate_P_win_a_set(_, <span class="built_in">type</span>=<span class="string">&#x27;6:2&#x27;</span>) <span class="keyword">for</span> _ <span class="keyword">in</span> x],</span><br><span class="line">        <span class="string">&#x27;P_win_set_by_6:3&#x27;</span>: [calculate_P_win_a_set(_, <span class="built_in">type</span>=<span class="string">&#x27;6:3&#x27;</span>) <span class="keyword">for</span> _ <span class="keyword">in</span> x],</span><br><span class="line">        <span class="string">&#x27;P_win_set_by_6:4&#x27;</span>: [calculate_P_win_a_set(_, <span class="built_in">type</span>=<span class="string">&#x27;6:4&#x27;</span>) <span class="keyword">for</span> _ <span class="keyword">in</span> x],</span><br><span class="line">        <span class="string">&#x27;P_win_set_by_7:5&#x27;</span>: [calculate_P_win_a_set(_, <span class="built_in">type</span>=<span class="string">&#x27;7:5&#x27;</span>) <span class="keyword">for</span> _ <span class="keyword">in</span> x],</span><br><span class="line">        <span class="string">&#x27;P_win_set_by_7:6&#x27;</span>: [calculate_P_win_a_set(_, <span class="built_in">type</span>=<span class="string">&#x27;7:6&#x27;</span>) <span class="keyword">for</span> _ <span class="keyword">in</span> x],</span><br><span class="line">        <span class="string">&#x27;P_win_set&#x27;</span> : [calculate_P_win_a_set(_, <span class="built_in">type</span>=<span class="string">&#x27;all&#x27;</span>) <span class="keyword">for</span> _ <span class="keyword">in</span> x],</span><br><span class="line">        <span class="string">&#x27;P_win_set_counterparty&#x27;</span> : [calculate_P_win_a_set( <span class="number">1</span> - _, <span class="built_in">type</span>=<span class="string">&#x27;all&#x27;</span>) <span class="keyword">for</span> _ <span class="keyword">in</span> x],</span><br><span class="line">        <span class="string">&#x27;P_win_game&#x27;</span> : [calculate_P_win_a_game(_) <span class="keyword">for</span> _ <span class="keyword">in</span> x],</span><br><span class="line">        <span class="string">&#x27;P_win_game (tie-break)&#x27;</span> : [calculate_P_win_a_game(_, if_tie_break= <span class="literal">True</span>) <span class="keyword">for</span> _ <span class="keyword">in</span> x],</span><br><span class="line">        <span class="string">&#x27;derivative_P_win_set_by_6:4&#x27;</span>: [ calculate_derivative_P_win_set(_, <span class="built_in">type</span>=<span class="string">&#x27;6:4&#x27;</span>)  <span class="keyword">for</span> _ <span class="keyword">in</span> x],</span><br><span class="line">    &#125;, index=x)</span><br><span class="line">    <span class="keyword">return</span>(df)</span><br></pre></td></tr></table></figure>]]></content>
       
       
+      <categories>
+          
+          <category> A </category>
+          
+      </categories>
+      
       
         <tags>
             
-            <tag> code </tag>
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+            <tag> 标签3 </tag>
             
         </tags>
       

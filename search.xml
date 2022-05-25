@@ -131,6 +131,35 @@
     
     
     <entry>
+      <title>BTC GAME - (1)</title>
+      <link href="/2022/05/23/bitcoin1/"/>
+      <url>/2022/05/23/bitcoin1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-认识市场"><a href="#1-认识市场" class="headerlink" title="1. 认识市场"></a>1. 认识市场</h1><h2 id="（1）框架"><a href="#（1）框架" class="headerlink" title="（1）框架"></a>（1）框架</h2><p><strong>BTC市场 &#x3D; 玩家 + 规则 + 内部信息 + 外部信息</strong></p><p>具体地说，</p><ol><li><p>玩家的买卖行为决定了BTC价格</p></li><li><p>玩家的行为受限于一些固有的规则</p></li><li><p>玩家的行为既受到信息影响， 本声又会产生信息。</p></li></ol><p>这个模型是我们认识&#x2F;分析市场的基础，接下来，我们会逐步的说明，如何利用这个模型去回答以下几个问题：</p><ol><li><p>周期为什么存在？</p></li><li><p>周期会继续吗？</p></li><li><p>现在处于周期中的什么位置？</p></li><li><p>某个冲击会带来怎样的影响？</p></li></ol><h2 id="（2）故事1：-BTC如何估值？"><a href="#（2）故事1：-BTC如何估值？" class="headerlink" title="（2）故事1： BTC如何估值？"></a>（2）故事1： BTC如何估值？</h2><ul><li><strong>一个起点：BTC可以按照根据某种 “共识” 来估值</strong></li></ul><p>很多观点认为BTC价值是空中楼阁，但我个人觉得不是。举个例子，中国股市，虽然股权仍然对应着对公司的所有权，但这里基本不分红，所以很多财务&#x2F;基本面估值的逻辑基础也没有那么牢靠。一方面，公司经营干得再好，投资者也分不到股利；另一方面，股票确实对应着对公司的所有权，很多观点相信这个所有权就是股票的内在价值，但是这份所有权的流动性折价呢？流动性折价是由市场来决定的，所以这个“内在价值”其实也是一直变化的，但基本面分析就管不到这个“流动性”了。简单地说，中国股市也多多少少存在“投资品价格”和“对应实物价值（内在价值）”脱钩的情况。但是，在中国股市，财务估值某种程度上仍然是有效的，起码买方、卖方里存在大量的财务估值分析工作。</p><p>所以，如果我们对基本面分析祛魅，站在一个更广的范围来看，我们可以说，<strong>基本面分析就是就是一种共识</strong>。我们相信基本面分析，是因为这个市场里的大多数人都认同基本面分析的逻辑。同时我们相信市场是弱有效的，在某个共识框架下，我只要比其它人更早的发现某种“价值”，然后低买高卖就行了。</p><p>那这样类比的话，既然某股市都可以根据共识来估值，那BTC似乎也可以按某种共识来估值。</p><ul><li><strong>BTC估值流程</strong></li></ul><p>那接下，来如果我们要分析&#x2F;预测BTC框架的话，我们需要做下面几件事：</p><ol><li>找到内在价值的共识。 股票市场的“共识” 是对应公司的内在价值。那BTC的共识是什么呢？</li><li>确定流动性溢价&#x2F;折价。 只有共识还不够，毕竟对于 某些中国股市股票&#x2F;BTC 这些类似于空气一般的资产品来说，它们的价值是不能自我变现的（不能分红，也没有使用等附加价值， 某些公司股票的控制权很难实现），要变现价值，就只能通过买卖，所以流动性很重要。</li><li>预测价格。</li><li>测量风险敞口</li></ol><p>我将在 “规则” 和 “玩家” 两部分说明BTC的内在价值共识是什么， 在 “内部信息” 和 “外部信息” 部分说明流动性溢价。在后续的文章里说明如何预测价格和如歌测量风险敞口。</p><h2 id="（3）故事2：-在旁氏骗局里寻找内在价值"><a href="#（3）故事2：-在旁氏骗局里寻找内在价值" class="headerlink" title="（3）故事2： 在旁氏骗局里寻找内在价值"></a>（3）故事2： 在旁氏骗局里寻找内在价值</h2><p>这个故事只是想说明，按“共识”给BTC定价是一个靠谱的思路。</p><p>虽然故事2的名称看上去很搞笑，但这却是每天在我们身边发生的故事。某些股市、BTC、房地产、养老金… 这些金字塔的体系里，我们能分清哪些部分是内在价值，哪些部分是旁氏骗局吗？有的人会说这些市场存在泡沫，但我感觉这只是一个文字游戏而已，骗局&#x2F;泡沫，一个意思。</p><p>不管怎样，现实就是，一方面，目前这些体系依赖对人们对系统的信任以及对系统将永远持续发展的信念来维持生存，一旦信任消失，整个系统就会像纸牌屋一样倒塌； 另一方面，在某些市场，我们已经成功的做到给庞氏骗局挂钩一个内在价值并且完成定价了，区别就是 99%的骗局，还是50%而已。</p><h2 id="（4）故事3：-供需模型"><a href="#（4）故事3：-供需模型" class="headerlink" title="（4）故事3： 供需模型"></a>（4）故事3： 供需模型</h2><p>如果用经济学的话术把故事（1）中的估值思路包装一下，那么我们可以得到一个供需模型。</p><p>$$<br>P_{BTC} &#x3D; P_{\text{Consensus Value}} + P_{\text{Liquidity Premium}}+ \epsilon<br>$$</p><p>价格由三部分组成， 共识价值； 流动性溢价；扰动。</p><p>为了表达上的方便，我们在后续的分析中沿用这套经济学术语，分别讨论函数 $P_{\text{Consensus Value}}$ 和  $P_{\text{Liquidity Premium}}$ 是如何形成的</p><h1 id="2-规则"><a href="#2-规则" class="headerlink" title="2. 规则"></a>2. 规则</h1><ul><li><strong>规则直接构成了共识的一部分</strong></li><li>足够重要的规则包括，</li></ul><ol><li>BTC市场半有效？</li><li>BTC每4年一次减产</li><li>BTC的特殊披露机制</li><li>DeFI</li></ol><h2 id="（1）BTC市场有效？"><a href="#（1）BTC市场有效？" class="headerlink" title="（1）BTC市场有效？"></a>（1）BTC市场有效？</h2><p>在所有的估值、甚至交易之前，我们需要做的第一件事就是探讨BTC市场的有效性。</p><p><strong>BTC市场有多么有效？</strong> 这个问题会告诉我们，哪些信息是有价值的，哪些信息是已经被使用过的（被融合进价格中的）。</p><p>接下来，我们会一步步的探讨这个问题。</p><ul><li><ol><li>EMH（Efficient Market Hypothesis） 有效市场假说</li></ol><ul><li><p>市场是一种信息聚合机制，把大量不同的观点和预期聚集成价格。</p></li><li><p>效率是指信息扩散。有效的市场不会等待（可知的）时间发生，市场会预测这些事件，并且早早的把它们纳入到价格行程中。信息融合的速率是检验效率的角度之一。</p></li><li><p>一旦市场足够有效（相关的信息都已经被纳入了价格中），那么剩下的就只有随机波动。所以，我们我们在预测苹果股价时很难找到优势，但是在预测科创版股价时，更容易找到优势。</p></li><li><p>强有效&#x2F; 半有效&#x2F; 弱有效</p></li><li><p>通常来说，市场的效率会和下面的变量有关：披露信息的成本|补偿、 获取信息的成本|补偿、 接受信息的成本|补偿 （参与者成熟度、资产流动性、交易成本、获取信息的成本）</p></li></ul></li></ul><p>More information <a href="*https://medium.com/@nic__carter/an-introduction-to-the-efficient-market-hypothesis-for-bitcoiners-ed7e90be7c0d*">Nic Carter, Efficient BTC Market </a></p><ul><li><ol start="2"><li>BTC市场特点：</li></ol><ul><li><ol><li><p>BTC天然的存在信息扩散壁垒，从一个中心化世界到一个去中心化的世界，这其中有很多力量扭曲了BTC市场，造成了信息扩散的壁垒。</p><p>比如，中心化世界里的投资者收到 监管&#x2F;合规&#x2F;入场技术门槛 的限制，所以传统金融投资者不得不依赖Greyscale等桥梁来进入BTC市场在这个过程中，Greyscale持币量会不断上升，直到成为可以操纵市场的巨鲸（3.4%），它不仅可以获得更多的信息，甚至可以主动产生信息（坐庄拉盘）。类似的例子包括交易所和期货bitcoin ETF基金。  </p><p>再比如，BTC的世界里是按算力来维持共识 （POW），但是中心化的世界里（特别是在全球化背景的当下），算力本身就是存在聚集效应的，分布不均的。这会天然的造就矿场（比如四川）。</p><p>另一个例子是关于结算，BTC的世界里只考虑到BTC之间如何支付结算。但是现实世界里，大多数人需要的是多资产间的多边结算。这种多边结算需要一套新的共识体系（如 美元）。但是目前出于政府权力的考虑，BTC是不能和美元直接挂钩的。从一套共识到另一套共识，这其中就留下了空白。 目前这个空白被Tether等填补了。</p></li><li><p>BTC天然的会诞生”超级玩家“， 并且BTC没有适配的披露要求。所以巨鲸联合起来坐庄的阴谋论一直若影若现。</p></li><li><p>存在做空机制，但是存在套利上限。套利上限指的是面对最佳的套利时机，投资者需要最多的流动性，但此时流动性往往最紧缺（一个经典的例子是GME的轧空踩踏）。但是随着交易者成熟 + 市场晚上，套利上限会逐渐被抹平。</p></li><li><p>BTC是去中心化的，但是它扩散信息的的话语权却是中心化的。</p></li></ol></li></ul></li></ul><p>BTC的这些特点，可以被归纳为： <strong>1.一定存在”超级玩家“（信息壁垒）     2.一定存在内幕交易，且内幕交易一定有效   3.基本面（共识）分析会逐渐失效？</strong>  </p><h2 id="（2）BTC每4年一次减产"><a href="#（2）BTC每4年一次减产" class="headerlink" title="（2）BTC每4年一次减产"></a>（2）BTC每4年一次减产</h2><p>BTC每4年一次减产。<strong>人造的稀缺性会不断推高BTC的价值</strong>，这或许是BTC市场里重要的的共识。</p><p>目前已经有了很多关于稀缺性价值的研究，众多研究中，最著名的可能就是 <strong>比特币库存流量（Stock-to-Flow S2F）</strong></p><p>一方面，S2F有着众多的支持者，More information could be found: <a href="https://stats.buybitcoinworldwide.com/stock-to-flow/">S2F model &amp; charts</a> ； [Nick Phraudsta]; [Manuel Andersch] 另一方面，也有观点反对S2F模型。目前最佳反对证据来自有效市场假说（EMH），分析和结论已经反映在了价格中。 </p><p>在这里，我个人认为：</p><p><strong>1. S2F有效  2.S2F在逐渐失效？ 3. 除了S2F外，可能还存在其它共识</strong> More information <a href="https://github.com/phRobotGit/My-2022/tree/main/DAO42/Task2/bitcoin1">My analysis</a></p><p>接下来，进一步思考，S2F外的其它共识是什么？</p><p>另外，一个未来需要完成的工作是： scarcity真的是共识吗？它是如何成为共识的？</p><h2 id="（3）BTC的特殊披露机制"><a href="#（3）BTC的特殊披露机制" class="headerlink" title="（3）BTC的特殊披露机制"></a>（3）BTC的特殊披露机制</h2><p>回到股市的例子，我们认为股票的共识（内在价值）落脚于公司，共识永远是人们最关心的事，所以信息披露要求的很大一部分内容也在公司信息。</p><p>那么，BTC市场里，如果共识在scarcity，那么BTC里信息披露的重点在哪儿呢？ </p><p>有人会觉得，股市里，公司的信息是需要不断更新的，但是scarcity （S2F）本身的信息已经披露全了，BTC的共识已经没有新的信息需要披露了。所以这两者完全无法类比。但是，不要忘记，BTC的价值变现只能靠接盘，所以相比于其它传统的资产，它的scarcity更应该分为两部分， 供给（S2F）和需求（Liquidity Premium）。 </p><p>所以，BTC里信息披露的重点就在于和需求直接挂钩的<strong>舆情</strong>。并且，请注意，在BTC市场里，扩散信息的的话语权是不对等的。一个例子就是，Elon Musk。</p><p>总结一下， BTC里最重要的信息披露是和需求预期直接挂钩的<strong>舆情</strong>， 同时，在披露时，天然的存在Market Abuse。 </p><p>（在这里，BTC市场的共识就会出现分歧。比如，一部分Musk的追随者会真的觉得他们遇到了风口；而一部分投资者会觉得MusK在割韭菜。这就为0和博弈带来了机会）</p><h2 id="（4）DeFI"><a href="#（4）DeFI" class="headerlink" title="（4）DeFI"></a>（4）DeFI</h2><p>如果BTC天然的孕育出了门阀。那么DeFI就是一场革命，它给小投资者带来了更多战胜大投资者的机会。</p><p>最近的一个案例是LUNA。一方面，熟悉货币攻击的人都知道：双币制是危险的，它给进攻者提供了完美的靶子。另一方面，我们看见，在LUNA暴跌后，影响很快通过稳定币传递到了BTC市场。</p><p>LUNA的例子告诉我们： 1. DeFI里充满了垃圾  2.稳定币连接起了整个DeFI体系，这个体系里完美没有风险隔离之类的合规要求  3. 小投资者可能无法在BTC市场上战胜大投资者，但是它们可以在DeFI里找一个更小更新的目标，然后战胜大投资者。</p><p>我们可以说DeFI在孕育更强大的投机者力量 &#x2F; 甚至新的投资者类型。它也在使得整个市场上个投资者得行为模式更加复杂。</p><h1 id="2-玩家"><a href="#2-玩家" class="headerlink" title="2. 玩家"></a>2. 玩家</h1><p>在规则一部分里，我们讲了：</p><ol><li><p>BTC半有效市场，以及BTC市场的信息壁垒在哪儿</p></li><li><p>共识： scarcity的供给端（S2F）</p></li><li><p>共识： scarcity的需求端（Liquidity Premium）</p></li><li><p>一类可能处在孕育中的投资者</p></li></ol><p>在这一部分里，我们会重点梳理BTC的几类玩家。初略了解它们各自的特点，我们主要想了解两点：</p><ol><li>每类投资者如S2F共识的态度</li><li>每类投资的对 $P(\text{Liquidity Premium})$的 $\text{Demand}$ 和 $\text{Supply}$</li></ol><p>我们认为存在以下几类玩家：</p><ol><li>寻求收益的庄家</li><li>寻求交易量的机构</li><li>DeFI市场里的攻击者</li><li>散户</li><li>矿工矿场</li></ol><p>More information: <a href="https://grayscale.com/wp-content/uploads/2021/12/Grayscale-2021-Bitcoin-Investor-Study-1.pdf">Greyscale investor report</a></p><h2 id="（1）-寻求收益的庄家"><a href="#（1）-寻求收益的庄家" class="headerlink" title="（1） 寻求收益的庄家"></a>（1） 寻求收益的庄家</h2><ul><li><p>比如，tether, DCG</p></li><li><p>产生引导性信息</p></li><li><p>接受内部信息</p></li><li><p>操纵市场</p></li><li><p>约束：资产负债表（家族基金）； 风险控制要求（某些基金机构）</p></li></ul><h2 id="（2）寻求交易量的机构"><a href="#（2）寻求交易量的机构" class="headerlink" title="（2）寻求交易量的机构"></a>（2）寻求交易量的机构</h2><ul><li>产生引导性信息</li><li>就收内部信息</li><li>不操纵市场，但是要维护市场的流动性&#x2F;活跃度</li><li>约束：？？</li></ul><h2 id="（3）-散户"><a href="#（3）-散户" class="headerlink" title="（3） 散户"></a>（3） 散户</h2><ul><li>假设他们是被动的信息生产者、和接收者</li></ul><h2 id="（4）-DeFI市场里的攻击者"><a href="#（4）-DeFI市场里的攻击者" class="headerlink" title="（4） DeFI市场里的攻击者"></a>（4） DeFI市场里的攻击者</h2><ul><li>相对独立的产生信息&#x2F;接受信息</li><li>提供波动性</li></ul><h2 id="（5）-矿场"><a href="#（5）-矿场" class="headerlink" title="（5） 矿场"></a>（5） 矿场</h2><ul><li>提供产出</li><li>假设矿场不独立参与市场，而是和机构交易者合作参与市场</li></ul><h1 id="3-外部信息（宏观冲击）"><a href="#3-外部信息（宏观冲击）" class="headerlink" title="3. 外部信息（宏观冲击）"></a>3. 外部信息（宏观冲击）</h1><p>不考虑预期时：</p><ul><li><p>CPI &amp; PMI</p><ul><li>产业链+消费端 对股市的影响是直接的，但是对BTC的影响是间接的。通过机构投资者的portfolio调整 + 散户的 portfolio调整来影响BTC。</li></ul></li><li><p>Inflation,  利率，资金成本</p><ul><li>流动性对 BTC的影响是直接的。 流动性充足，BTC价格上行。</li></ul></li><li><p>其它投资市场</p><ul><li>从portfolio这个角度来看，会和BTC有强相关性，但是不是直接原因，只是一个cofounder</li></ul></li><li><p>信心 DSG10&#x2F;DSG2</p><ul><li>信心对BTC的影响是直接的。但是可能得不到明显的正向&#x2F;负向关系。市场好 和 市场差， 我们永远不知道那种情况下，投资者会更疯狂，或者以某种方式疯狂。</li></ul></li><li><p>预计这些宏观因子都很难独立的发挥作用，但是它们将会和舆情结合起来发挥作用。</p></li></ul><h1 id="4-内部冲击-（舆情）"><a href="#4-内部冲击-（舆情）" class="headerlink" title="4. 内部冲击 （舆情）"></a>4. 内部冲击 （舆情）</h1><p>​    </p><h1 id="0-链接"><a href="#0-链接" class="headerlink" title="0. 链接"></a>0. 链接</h1><p>通过通过全部的文献资料，来快速学习BTC交易：</p><p>1: <a href="https://books.google.co.uk/books?id=YmxUEAAAQBAJ&pg=PA250&lpg=PA250&dq=Greyscale%E6%8E%A7%E8%82%A1&source=bl&ots=tZkW-IkHBg&sig=ACfU3U00Zxd_YDJsV6p1Cq_GutRa2kbcVA&hl=en&sa=X&ved=2ahUKEwjk84fYmPb3AhXhnFwKHf4PDukQ6AF6BAgWEAM#v=onepage&q&f=false">Hashkey Capital 区块链与加密资产投资指南</a></p><p>2: <a href="https://www.hashkey.com/blockchain-research/?lang=zh-hant">Hashkey Capital research</a></p><p>3: <a href="https://panteracapital.com/insights/">Pantera Capital</a></p><p>4：<a href="https://www.coindesk.com/tag/bitcoin-macro/">deskcoin</a></p><p>5: <a href="https://www.ssrn.com/index.cfm/en/cryptocurrency/">SSRN</a></p><p>6: [量化宽松刺激BTC](The Quantitative Easing Bursts Bitcoin Price)</p><p>7: <a href="https://hbr.org/search?search_type=&term=bitcoin&term=">Havard Business</a></p><p>8：<a href="https://www.chainnode.com/library">8BT</a></p><p>9: <a href="https://upshot.xyz/">upshot</a></p><p><a href="https://www.youtube.com/watch?v=epQv_MN7euE">https://www.youtube.com/watch?v=epQv_MN7euE</a> 宏观视频</p><p><a href="https://library.oapen.org/bitstream/id/c8a35b6e-03a3-4116-97b9-af50ce7534b6/1000376.pdf">https://library.oapen.org/bitstream/id/c8a35b6e-03a3-4116-97b9-af50ce7534b6/1000376.pdf</a> </p><p><a href="https://www.goldmansachs.com/insights/pages/crypto-a-new-asset-class-f/report.pdf">https://www.goldmansachs.com/insights/pages/crypto-a-new-asset-class-f/report.pdf</a> BITCOIN特点说明</p><p>9： <a href="https://blog.bitmex.com/category/crypto-trader-digest/page/3/?lang=en_us">BitMEX</a> 什么都有，经验博客</p><p>10：<a href="https://mirror.xyz/0x3DcB6592B35097Df3A98FDBf9e6ec9f05436Aeda">mirror</a> </p><p>10： bitcoin macro <a href="https://core.ac.uk/download/pdf/302940143.pdf">https://core.ac.uk/download/pdf/302940143.pdf</a></p><p>bitcoin dynamics? </p><p><a href="https://seekingalpha.com/article/4477064-bitcoin-breaking-the-cycle-in-2022">https://seekingalpha.com/article/4477064-bitcoin-breaking-the-cycle-in-2022</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> BTC GAME </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Investment || 投资 </tag>
+            
+            <tag> Bitcoin || 比特币 </tag>
+            
+            <tag> Crypto || 加密货币 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>BTC GAME - (2)</title>
       <link href="/2022/05/23/bitcoin2/"/>
       <url>/2022/05/23/bitcoin2/</url>
@@ -179,35 +208,6 @@
             <tag> DeFi </tag>
             
             <tag> DAO </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>BTC GAME - (1)</title>
-      <link href="/2022/05/23/Crypto-Investment/Bitcoin1/"/>
-      <url>/2022/05/23/Crypto-Investment/Bitcoin1/</url>
-      
-        <content type="html"><![CDATA[<p>To be continue</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> BTC GAME </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Investment || 投资 </tag>
-            
-            <tag> Bitcoin || 比特币 </tag>
-            
-            <tag> Crypto || 加密货币 </tag>
             
         </tags>
       

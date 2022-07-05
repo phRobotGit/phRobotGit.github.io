@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>DeFi Advanture - (2)</title>
+      <link href="/2022/07/05/defi2/"/>
+      <url>/2022/07/05/defi2/</url>
+      
+        <content type="html"><![CDATA[<p>这篇文章的内容包括：</p><ul><li>讲一个故事，简述区块链发展的历史，介绍什么是区块链</li><li>在故事中加入个人的分析，解读 “为何区块链技术是未来的趋势”</li><li>在故事中插入技术层面的讲解，进一步刨析 ”什么是区块链“</li></ul><p>这篇文章不会开门见山的讲解什么是区块链。相反，我希望能和读者一起，在一个漫长的故事中，重返区块链诞生的年代，在亲身经历那段历史的过程中，一起逐渐理解”非对称加密“， ”比特币“， ”区块链“ 等概念。</p><h1 id="0-Symmetric-encryption-对称加密"><a href="#0-Symmetric-encryption-对称加密" class="headerlink" title="0.  Symmetric encryption| 对称加密"></a>0.  Symmetric encryption| 对称加密</h1><p>关于比特币、区块链的全部故事，都得从“加密”讲起。</p><h2 id="（1）什么是对称加密"><a href="#（1）什么是对称加密" class="headerlink" title="（1）什么是对称加密"></a>（1）什么是对称加密</h2><p>大部分人都很清楚什么是”加密“：加工一段信息，让它在传播过程中不要泄露，最后让信息接受者解密，获得信息。比如，二战时，电台通信员会先对照一个密码本加密信息，把人话转换成没人能听懂的东西，然后再把信息发送出去，然后友方通信员接到信息后，再根据密码本解密信息。有趣的是，之后的区块链的故事，都是从这一个密码本开始的。</p><p>首先我们先来情景模拟一下，体验一下加密的过程：</p><p>通信员A需要传递一个数字：17，给通信员B。那么，A 会先根据<strong>密码本</strong>加密信息（根据密码本的规则，17对应的字段是X91B），然后B会接收到字段X91B，然后解密回17。流程图表示如下：</p><p>A： 17 –&gt; (加密) –&gt; X91B –&gt;（传播给B）–&gt;B：X91B –&gt; (解密) –&gt; 17 </p><p>这里我们顺便引入一对概念：</p><ul><li><p><strong>对称加密</strong>：用大白话来说，加密和解密是用的同一套规则，比如都是 17 对应到 X91B，这种加密就是对称加密。</p></li><li><p><strong>非对称加密</strong>：加密和解密是用的不同规则，这种加密就是非对称加密。</p></li></ul><h2 id="（2）从社会学和经济学视角理解加密技术"><a href="#（2）从社会学和经济学视角理解加密技术" class="headerlink" title="（2）从社会学和经济学视角理解加密技术"></a>（2）从社会学和经济学视角理解加密技术</h2><p>加密技术是人类进步的必然产物。</p><p>社会是各个体关系的总和，而当群体间的关系发展到一定程度后，加密技术就顺势而生。如果不能理解这一点，也就很难充分理解比特币、区块链等技术的价值。</p><p>更直白的来说，我们想象一下，如果这个世界没有加密技术，那所有的信息都是明文，任何信息都能被低成本的截获篡改，那么人与人之间的沟通方式就会受限。于是，复杂的沟通环境也就不可能实现。群体间沟通的受限也就导致了群体间关系发展的受限。换句话说，就是社会进步的受限。</p><p>举个例子，现在我们的沟通、购物都依赖互联网。有了邮件系统，跨国公司才成为了可能；有了电商系统，商品的流通才更加顺畅。但是，如果没有加密技术，互联网将不复存在。邮件、电商等产物也会消失（至于为什么会消失，不熟悉互联网信息传输的读者可以看这个视频： <a href="https://www.bilibili.com/video/BV1iE411o7jQ?spm_id_from=333.337.search-card.all.click">告别互联网“裸奔”，秒懂https和非对称加密！</a>， 不过这个视频里非对称加密讲错了，请留心）。我们也就只能回到过去那个一手交货一手交钱的时代。这就是社会进步的倒退&#x2F;受限。正是加密技术，使得互联网成为了可能，开启了新的时代。</p><p>总结一下：社会是各个体关系的总和，社会的进步也就意味着群体里关系的发展。关系的发展离不开信息交换，信息交换离不开通信渠道。而加密技术，为通信渠道的拓展提供了可能。没有加密技术，通信渠道将限制社会发展。所以，加密技术使得塑造更复杂的社会结构成为可能，加密是人类进步的必然产物。</p><h2 id="（3）-对称加密之后？"><a href="#（3）-对称加密之后？" class="headerlink" title="（3） 对称加密之后？"></a>（3） 对称加密之后？</h2><p>首先，我们要知道：对称加密的核心就是那个密码本。我们甚至可以简化的把对称加密理解成：大家使用同一个密码本。</p><p>然后我们来思考几个问题：</p><ol><li><p>密码本安全吗？答案是否定的。密码本如果泄露，那全部的加密信息就会变成明文。一个经典的例子是，1941年英国海军捕获德U-110潜艇，并从中得到德军密码机（恩尼格玛密码机）和密码本，这使得盟军可以破译德军密码，直接导致了德军对英美商船补给船的大量攻击失效。可以说，存在密码本，即存在隐患。</p></li><li><p>能不能不使用密码本？在过去很长一段时间里，答案都是否定的（后文会介绍一种可能的方法）。有的人可能会想的很朴素，可能会这样想，我是个电台通信员，我把我军的密码本都烧了，而且我军的通信员都有钢铁意志，即使被敌军俘虏后严刑拷打，也不会说出密码，这样不就行了吗？这样确实不错啊，但是会带来新的问题：</p><ul><li><p>（1）传播（密钥分发）：当你想拓展你军的通信网络规模时，你是不是还得口传身教的秘密训练一批新的通信员，让密码从你的大脑传递到他的大脑？这样就带来传播问题了。传播成本很高，你这套密码就很难应用起来了。在过去，只有很特殊的情况下，会不计成本的采用这种方式，比如电影《风语者》中，塞班岛战役时，美军为对抗军日而特别培养的少数民族语言通信员。</p><p>（风语者真的很好看呀， 如果你没看过风语者，可以看看这个电影解说： <a href="https://www.bilibili.com/video/BV1cJ411U7K4/?spm_id_from=333.788.recommend_more_video.-1">9分钟风语者解说</a>）</p></li><li><p>（2）破译风险：密码是会被破译的。即使没有密码本，但是在我军的通信体系里，大家用的是同一套规则来加密解密，所以密码一旦被破译，我军的全部加密信息仍然会变成明文。不幸的是，随着计算机技术的发展，一套加密规则已经变得相对很容易被破译了。所以《风语者》的故事如果发生发生在现在，那美军的操作就是个笑话。</p></li></ul></li><li><p>能不能不停的定期更换密码本？可以，以前军队、还有银行就是这样干的。但这是其实是个治标不治本的折中方案。</p></li><li><p><strong>能不能让 加密 和 解密用不同的密码本？同时每人都用不同的密码本来加密解密？</strong>这样不仅解决了密钥分发问题，而且即使敌军知道某个密码本，也无法破译出通信网络里的全部信息？这个方案如果能实现，确实能提高加密技术的安全性，但是，怎么实现呢？ （如果感兴趣，你可以回到 17 和 X91B 的那个例子，思考一下如何设计加密解密，使得它们用不同的规则，并且还能保证B能成功解密出答案17）</p><p>事实上，这个方案确实可行 ，它就是我们接下来要讲的，<strong>非对称加密</strong>。</p></li></ol><h1 id="1-CryherPunk-密码朋克"><a href="#1-CryherPunk-密码朋克" class="headerlink" title="1. CryherPunk | 密码朋克"></a>1. CryherPunk | 密码朋克</h1><h2 id="（1）什么是非对称加密？"><a href="#（1）什么是非对称加密？" class="headerlink" title="（1）什么是非对称加密？"></a>（1）什么是非对称加密？</h2><p>简单来说：加密和解密是用的不同规则，这种加密就是<strong>非对称加密</strong>。</p><p>我们举一个例子来演示以下非对称加密：</p><p>在对称加密的情况下：</p><ul><li><p>加密时：明文+ 密码本 &#x3D; 加密内容 </p></li><li><p>传播： 传播加密内容</p></li><li><p>解密时：加密内容 - 密码本 &#x3D; 明文</p></li></ul><p>而在非对称加密的情况下：</p><ul><li><p>加密时：明文 + 1号密码本 &#x3D; 加密内容</p></li><li><p>传播： 传播加密内容</p></li><li><p>解密时：加密内容 - 2号密码本 &#x3D; 明文</p></li><li><p>并且，1号密码本满足条件： 加密内容 - 1号密码本  $\ne$ 明文 </p></li><li><p>并且，2号密码本满足条件： 可以从2号密码本计算出1号密码本，但是不能从1号密码本计算出2号密码本。</p></li><li><p>通常，我们把1号密码本称为 <strong>公钥</strong>， 把2号密码本成为<strong>私钥</strong></p></li></ul><p>那现在，你看，你可以：</p><ol><li>随意公开公钥。任何想给你传达消息的人，都可以用你的公钥来加密内容。并且呢，只有你的私钥能解密内容。即使黑客截获了你加密内容并且掌握公钥，他也无法破译信息。这样就解决了密钥分发的难题。</li><li>每一人都可以创建自己的公钥，私钥。换句话说，每个人都可以由自己独特的加密体系。这样密码被破译的风险就降低很多了。而且，即使一个通信员的私钥被破译，对整个通讯体系的危害也不会太大。</li></ol><p>所以我们说，非对称加密，相较于对称加密来说，安全性有了巨大的提升。</p><p>当然，这个东西虽说不难，不过还是有点抽象的，如果你对非对称加密不熟悉，我建议你亲自看一看，非对称加密长什么样子，怎么实现的。<a href="https://www.bilibili.com/video/BV1Ts411H7u9?spm_id_from=333.337.search-card.all.click">李永乐老师11分钟讲RSA加密算法</a>（RSA是非对称加密的一种方法，它是最经典的一种，所以我们直接以它举例。 ）</p><h2 id="（2）从社会学和经济学视角理解非对称加密技术"><a href="#（2）从社会学和经济学视角理解非对称加密技术" class="headerlink" title="（2）从社会学和经济学视角理解非对称加密技术"></a>（2）从社会学和经济学视角理解非对称加密技术</h2><p>1978年，MIT的的三位数学家提出了RSA加密算法。 几乎同一时间，这项发明引来了美国政府的关注，美当局禁止数学家公开RSA相关的论文，并表示公开RSA将因<strong>大规模散播武器</strong>而获罪。当然，在经过与政府的斗争后，RSA最终从被控制到被被公开，从军用转向了民用，被广播到了世界上的每一个角落。</p><p>RSA代表的非对称加密技术究竟会对政治、社会、经济造成多大的影响？为什么一篇有关加密算法的论文会被美国当局视为武器呢？</p><p>其实很简单， 一旦RSA被广泛传播，就意味着每个人都可以低成本的拥有自己的公钥私钥，每个人都可以加密自己在互联网上的信息，每个人都可以对抗政府的窃听和监控，更严重的，每个人都可以在互联网上密谋，地下交易、恐怖主义、反政府主义将变得不可控。要知道，在20世纪，美国政府惧怕人们在互联网上获得自由，政府甚至希望给每台电脑操纵系统留下一个“后门”以便政府随时监控。甚至在1995年，克林顿政府仍然在国会会议上表态： “根据宪法，美国公民没有选择自己的加密方法的权利” （The Clinton administration <a href="http://www.cyberwire.com/cwd/cwd.95.05.12a.html">noted</a> in a 1995 background congressional briefing that “Americans have no constitutional right to choose their own method of encryption” and pushed for legislation that would require companies to build in a mechanism for law enforcement agencies to break in.）。值得一提的是，直到今天，美国政府的态度似乎一点都没有改变，具体的例子可以参考“棱镜门”。（题外话：政府应不应该监控互联网，这是一个争论颇多的议题。一方面，每个人都有对尊严和自由的追求，我们不希望政府过多的监控我们的隐私，操纵我们的生活。更严重的，我们担心政府变质、或是和企业联合起来，软性的奴役我们。另一方面，我们也不希望互联网等信息交互媒介完全失控，如果每个人都可以密谋，那更多的911事件、阿拉伯之春、暗网会充斥我们的生活，毕竟在失去秩序的地方，必定会出现意想不到的秩序补充）</p><p>而且，除了政府，企业也试图在通信渠道上建立自己的霸权。比如，在当时，电子垃圾邮件已经将人们折磨不堪，每个人的电子邮箱都会收到大量的广告推送。此外，企业和消费者对加密技术和信息量的掌握是不对等的，一些隐私信息甚至会被企业破解然后用作商业目的（这种感觉就好像APP推送给你广告，并且把你的手机号码卖出去一样）。</p><p>于是，RSA代表的非对称加密技术天然的成为了人民对抗强权、争取自由的工具。在所有的反抗者中，一群人的影响最为深远，他们聚集在一起，讨论如何通过技术来捍卫自己在互联网上的隐私，来争取自己的自由，他们被称为<strong>密码朋克</strong> 。（关于密码朋克的简介： 密码朋克可以被简单理解为一个网络社区，或者是一个群体。在这个邮件维持的社区里（如果你不知道什么是社区，你可以大致理解为你现在邮箱里的分组群，或者你的微信群），大家主要讨论数学、加密、政治社会学等问题。一个更生动的介绍可见： <a href="https://www.bilibili.com/video/BV1fC4y1b7X9/?spm_id_from=autoNext">区块链100问：密码朋克是什么</a> ）（这里有一个关于《密码朋克宣言》的中文翻译，感兴趣可以查看，以便更好的了解密码朋克的精神内核： <a href="https://zhuanlan.zhihu.com/p/49466422">《密码朋克宣言》</a>）</p><p>我个人认为密码朋克是近50年来最伟大的社区，并且它对人类社会的影响十分深远。如果你不同意我的观点，那我们先来看看密码朋克有哪些成员：</p><ul><li><p><strong>伯纳斯李</strong>： 互联网之父</p></li><li><p>罗纳德·李维斯特（Ron Rivest）、阿迪·萨莫尔（Adi Shamir）和伦纳德·阿德曼（Leonard Adelman）：发明RSA算法的那三位数学家。</p></li><li><p>Julian Assange （朱利安.阿桑奇）: 大名鼎鼎的维基解密创始人。</p></li><li><p>Jacob Appelbaum ：匿名网络浏览器Tor的开发人员之一，没有Tor浏览器就没有”暗网“。</p></li><li><p>Adam Bac: Proof or Work (也是比特币里应用的共识机制) 的发明者，于1997年提出Proof or Work，并提出哈希现金（一种数字货币）。</p></li><li><p>中本聪：比特币创始人 </p></li><li><p>Philip Zimmermann：PGP v1.0 (1991) 的原创者；PGP Inc. 的联合创始人（1996 年。 PGP一种加密软件，为在线通信提供隐私性，安全性，和身份验证保护。最初被用于保护电子邮件，现在被用于数字签名等各大领域。可以说，没有PGP，我们现在可能都没法放心的使用邮箱。）</p></li><li><p>扎克伯格：facebook创始者。赛博朋克的大叛徒。背弃了赛博朋克精神，赛博朋克们为了保护个人隐私的奋斗，而facebook不仅身陷无数的隐私侵犯丑闻，甚至已经毫不掩饰的封禁懂王账号，干涉经济和政治。Facebook已经成为了赛博朋克的反面。</p></li></ul><p>总结一下：</p><ul><li>加密技术提供了更复杂的信息交换通道，这使得更复杂的社会结构成为可能。如果没有最初的对称加密技术，那么在信息泄露和窃听的危险面前，大规模的信息交换渠道（比如互联网，最初的邮件系统和网购系统）也就不可能实现。</li><li>而如果说加密技术的进步促进了生产力的提高，那么非对称加密技术就代表了人们对生产关系的探索。新的生产力必定要有与之适配的新生产关系。举个例子, 如果没有非对称加密，那么安全传输信息的重要工作就必须委托给第三方来实现，这个第三方还必须有足够的资源、技术和公信力。那么，这个第三方天然的会获得优势地位。他可以监控每个人的隐私（如美国政府），也可以利用每个人的隐私谋利（如当时的邮件广告）。而非对称加密的出现，则允许个体掌握自己的加密体系，允许了个体不依赖第三方，实现信息的安全传输。</li></ul><h2 id="（2）非对称密码之后？"><a href="#（2）非对称密码之后？" class="headerlink" title="（2）非对称密码之后？"></a>（2）非对称密码之后？</h2><p>非对称加密是伟大的发明，但是它也仅仅是允许个题不依赖第三方实现信息的安全传输而已。在安全传输之外的很多方面仍然是依赖平台或政府等第三方的，比如在陌生人间建立信任，比如交易网络。所以在非对称密码之后，赛博朋克们进行了更多的探索。比如：</p><ul><li>共识：Proof of work 工作量证明（我实在不想介绍什么是工作量证明了，否则的话，这篇文章的篇幅就会变得过于长了。工作量证明简介可见 <a href="https://www.bilibili.com/video/BV1W3411L7ao?spm_id_from=333.337.search-card.all.click">时间戳，POW和区块链</a>）。 工作量证明的诞生背景是对抗垃圾邮件，考虑这样一个情况，你的朋友想给你发一封重要邮件， 同时一个陌生公司想给你发邮件问你愿不愿意去当CEO，同时有一千个诈骗机构知道了你的邮件地址，想给你发垃圾邮件。好了，那现在你要怎么做才能正确收到你想要的两封邮件，同时避开那一千封垃圾邮件呢？你认识你的朋友，熟悉他的邮箱地址，你们之前存在信任，你知道他不会给你发垃圾邮件，所以这当然不是问题，但是那个陌生公司呢？ 这个公司和诈骗机构对你来说都是陌生人，现在你要怎么办呢？ 这就是工作量证明要做的事：改善验证技术，使其能在陌生人之间建立信任。</li><li>交易网络：在比特币之前，密码朋克内容就已经出现了很多电子货币方案，但是这些电子货币在设计上都存在问题，他们仍然依赖中心化的机构来身份信息和记录资产关系。</li><li>比特币：比特币是第一个把分布式共识机制和电子货币结合起来的设计。我们将在下一部分更详细的介绍比特币。</li></ul><p>总之，非对称加密使得个体可以安全且自由的传输信息。但是呢，仅仅是安全自由的传输信息还不够，在能传输信息的基础上，密码朋克们还在思考怎么安全自由的（不依赖第三方）建立起信任（共识），怎么去安全自由的（不依赖第三方）完成交易。</p><h1 id="3-比特币"><a href="#3-比特币" class="headerlink" title="3. 比特币"></a>3. 比特币</h1><p>通过前面的故事，我们已经知道了比特币诞生时的背景，并且大致明白了比特币诞生时的愿景：实现安全自由的（不依赖第三方）交易体系。接下来，我们来进一步讲解比特币的细节。</p><h2 id="（1）白皮书"><a href="#（1）白皮书" class="headerlink" title="（1）白皮书"></a>（1）白皮书</h2><h2 id="（2）-区块链"><a href="#（2）-区块链" class="headerlink" title="（2） 区块链"></a>（2） 区块链</h2><h2 id="（3）-比特币价值"><a href="#（3）-比特币价值" class="headerlink" title="（3） 比特币价值"></a>（3） 比特币价值</h2><h1 id="4-以太坊"><a href="#4-以太坊" class="headerlink" title="4. 以太坊"></a>4. 以太坊</h1><h2 id="（1）白皮书-1"><a href="#（1）白皮书-1" class="headerlink" title="（1）白皮书"></a>（1）白皮书</h2><h2 id="（2）黄皮书"><a href="#（2）黄皮书" class="headerlink" title="（2）黄皮书"></a>（2）黄皮书</h2><h2 id="（3）-NFT、Token等智能合约"><a href="#（3）-NFT、Token等智能合约" class="headerlink" title="（3） NFT、Token等智能合约"></a>（3） NFT、Token等智能合约</h2><h1 id="5-Web3"><a href="#5-Web3" class="headerlink" title="5. Web3"></a>5. Web3</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> DeFi Advanture </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> DeFi </tag>
+            
+            <tag> DAO </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>DeFi Advanture - (3)</title>
+      <link href="/2022/06/21/defi3/"/>
+      <url>/2022/06/21/defi3/</url>
+      
+        <content type="html"><![CDATA[<p>TBC</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> DeFi Advanture </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> DeFi </tag>
+            
+            <tag> DAO </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Machine Learning Bedtime Stories - (4)</title>
       <link href="/2022/06/06/MLbs4/"/>
       <url>/2022/06/06/MLbs4/</url>
@@ -31,31 +85,6 @@
     
     
     <entry>
-      <title>Asset Management in Textbooks - (1)</title>
-      <link href="/2022/05/23/AssetM1/"/>
-      <url>/2022/05/23/AssetM1/</url>
-      
-        <content type="html"><![CDATA[<h1 id="1-Basic-Calculating"><a href="#1-Basic-Calculating" class="headerlink" title="1. Basic Calculating"></a>1. Basic Calculating</h1><p>including,</p><ol><li>how to calcute return</li><li>how to do monthly rebalancing for portfolio</li><li>how to eveluate portfolio, for example, calculating the Maximum Draw Down<br>More info: <a href="https://github.com/phRobotGit/My-2022/tree/main/Asset%20management%20on%20Textbooks/basic%20calculating">Basic Calculating</a></li></ol><h1 id="2-Markowitz-Modern-Portfolio-Theory"><a href="#2-Markowitz-Modern-Portfolio-Theory" class="headerlink" title="2. Markowitz Modern Portfolio Theory"></a>2. Markowitz Modern Portfolio Theory</h1><p>Here are detailed mathematical derivation and and a case:</p><p>More info: <a href="https://github.com/phRobotGit/My-2022/tree/main/Asset%20management%20on%20Textbooks/Markowitz%20Modern%20Portfolio%20Theory">Markowitz Modern Portfolio Theory</a></p><h1 id="3-CAPM"><a href="#3-CAPM" class="headerlink" title="3. CAPM"></a>3. CAPM</h1><p>Here is a case of calculating everything about CAPM in portfolio management: </p><p>More info: <a href="https://github.com/phRobotGit/My-2022/tree/main/Asset%20management%20on%20Textbooks/CAPM">CAPM</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Asset Management in Textbooks </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Investment || 投资 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Three cases of Big Data Analysis || 大数据分析案例三则</title>
       <link href="/2022/05/23/BigDataCase/"/>
       <url>/2022/05/23/BigDataCase/</url>
@@ -75,25 +104,23 @@
     
     
     <entry>
-      <title>Machine Learning Bedtime Stories - (1)</title>
-      <link href="/2022/05/23/MLbs1/"/>
-      <url>/2022/05/23/MLbs1/</url>
+      <title>Asset Management in Textbooks - (1)</title>
+      <link href="/2022/05/23/AssetM1/"/>
+      <url>/2022/05/23/AssetM1/</url>
       
-        <content type="html"><![CDATA[<h1 id="1-What-is-Machine-Learning-ML"><a href="#1-What-is-Machine-Learning-ML" class="headerlink" title="1. What is Machine Learning (ML)?"></a>1. What is Machine Learning (ML)?</h1><p><strong>ML (or AI) is a statistical tool for observing the world.</strong>  We human can only see how the data presents itself, but ML can help us observe the patterns behind the data (or the distribution of the generated data). Furthermore, Universal approximation theorem tells us how ML works, and Plato’s Allegory of the cave explains why we need ML.</p><p><strong>ML（或 AI）是一种观察世界的统计工具。</strong>我们人类只能看到数据如何呈现自己，但 ML 可以帮助我们观察数据背后的模式（或生成数据的分布）。 此外，通用逼近定理告诉我们机器学习是如何工作的，柏拉图的洞穴寓言解释了为什么我们需要机器学习。</p><br><p><strong>Universal approximation theorem:</strong> Mathematically speaking, any neural network architecture aims at finding any mathematical function y&#x3D; f(x) that can map attributes(x) to output(y). The accuracy of this function i.e. mapping differs depending on the distribution of the dataset and the architecture of the network employed. The function f(x) can be arbitrarily complex. The Universal Approximation Theorem tells us that Neural Networks has a kind of <strong>universality</strong> i.e. no matter what f(x) is, there is a network that can approximately approach the result and do the job! This result holds for any number of inputs and outputs.</p><p><strong>通用逼近定理</strong> 从数学上讲，任何神经网络架构都旨在找到可以将属性（x）映射到输出（y）的任何数学函数 y&#x3D; f(x)。 该函数的准确性（即映射）因数据集的分布和所采用的网络架构而异。 函数 f(x) 可以是任意复杂的。 通用逼近定理告诉我们，神经网络具有一种<strong>普遍性</strong>，即无论 f(x) 是多少，都有一个网络可以近似地逼近结果并完成工作！ 该结果适用于任意数量的输入和输出。</p><br><p><strong>Plato’s Allegory of the Cave:</strong> In the allegory “The Cave,” Socrates describes a group of people who have lived chained to the wall of a cave all their lives, facing a blank wall. The people watch shadows projected on the wall from objects passing in front of a fire behind them and give names to these shadows. The shadows are the prisoners’ reality, but are not accurate representations of the real world. The shadows represent the fragment of reality that we can normally perceive through our senses, while the objects under the sun represent the true forms of objects that we can only perceive through reason. </p><p><strong>柏拉图的洞穴寓言：</strong>在寓言“洞穴”中，苏格拉底描述了一群一生被锁在洞穴墙壁上的人，面对一堵空白的墙壁。 人们看着从他们身后的火堆前经过的物体投射在墙上的阴影，并为这些阴影命名。 阴影是囚犯的现实，但不是现实世界的准确表示。 阴影代表我们通常可以通过感官感知的现实片段，而阳光下的物体代表我们只能通过理性感知的物体的真实形式。</p><p>![](.&#x2F;MLbs1&#x2F;allegory of cave.jpg)</p><h1 id="2-Drawbacks-of-ML-Black-box"><a href="#2-Drawbacks-of-ML-Black-box" class="headerlink" title="2. Drawbacks of ML - Black box"></a>2. Drawbacks of ML - Black box</h1><p>One of the conundrums about ML is that, we want to observe the world via ML, but we human cannot understand what ML is telling us. This is why we call ML(AI) black-box models.<br>关于 ML 的难题之一是，我们想通过 ML 观察世界，但我们人类无法理解 ML 告诉我们什么。 这就是我们称之为 ML(AI) 黑盒模型的原因。<br><br></p><p>Obviously, if we want to better apply ML, we must build a bridge between ML output information and human cognitive ability. Specifically, Specifically, we need to know why the model made a certain decision, what distribution the model has learned, and how the model output will change if we change the input, etc.<br>显然，如果我们想要更好地应用 ML，就必须在 ML 输出信息和人类认知能力之间架起一座桥梁。 具体来说，具体来说，我们需要知道模型为什么会做出某个决策，模型学到了什么分布，如果我们改变输入，模型输出会如何变化等等。<br><br></p><p>We will discuss some techniques for explaining models in future articles, and we will use a case to demonstrate how the techniques can help to tune parameters and improve models.<br>我们将在以后的文章中讨论一些解释模型的技术，我们将使用一个案例来演示这些技术如何帮助调整参数和改进模型。</p><h1 id="3-Drawbacks-of-ML-Corraltion-amp-Causality"><a href="#3-Drawbacks-of-ML-Corraltion-amp-Causality" class="headerlink" title="3. Drawbacks of ML - Corraltion &amp; Causality"></a>3. Drawbacks of ML - Corraltion &amp; Causality</h1><p>Many models are built on correlation rather than causation. And Simpson’s paradox has shown us how misleading can correlation be for models and analysis.<br>许多模型是建立在相关性而不是因果关系上的。 辛普森悖论向我们展示了相关性对模型和分析的误导性。<br><br></p><p>We will discuss some techniques for building models based on causality in future articles.<br>我们将在以后的文章中讨论一些基于因果关系构建模型的技术。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-Basic-Calculating"><a href="#1-Basic-Calculating" class="headerlink" title="1. Basic Calculating"></a>1. Basic Calculating</h1><p>including,</p><ol><li>how to calcute return</li><li>how to do monthly rebalancing for portfolio</li><li>how to eveluate portfolio, for example, calculating the Maximum Draw Down<br>More info: <a href="https://github.com/phRobotGit/My-2022/tree/main/Asset%20management%20on%20Textbooks/basic%20calculating">Basic Calculating</a></li></ol><h1 id="2-Markowitz-Modern-Portfolio-Theory"><a href="#2-Markowitz-Modern-Portfolio-Theory" class="headerlink" title="2. Markowitz Modern Portfolio Theory"></a>2. Markowitz Modern Portfolio Theory</h1><p>Here are detailed mathematical derivation and and a case:</p><p>More info: <a href="https://github.com/phRobotGit/My-2022/tree/main/Asset%20management%20on%20Textbooks/Markowitz%20Modern%20Portfolio%20Theory">Markowitz Modern Portfolio Theory</a></p><h1 id="3-CAPM"><a href="#3-CAPM" class="headerlink" title="3. CAPM"></a>3. CAPM</h1><p>Here is a case of calculating everything about CAPM in portfolio management: </p><p>More info: <a href="https://github.com/phRobotGit/My-2022/tree/main/Asset%20management%20on%20Textbooks/CAPM">CAPM</a></p>]]></content>
       
       
       <categories>
           
-          <category> Machine Learning Bedtime Stories </category>
+          <category> Asset Management in Textbooks </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Machine Learning || 机器学习 </tag>
-            
-            <tag> Codes || 代码 </tag>
+            <tag> Investment || 投资 </tag>
             
         </tags>
       
@@ -127,11 +154,11 @@
     
     
     <entry>
-      <title>Machine Learning Bedtime Stories - (2)</title>
-      <link href="/2022/05/23/MLbs2/"/>
-      <url>/2022/05/23/MLbs2/</url>
+      <title>Machine Learning Bedtime Stories - (1)</title>
+      <link href="/2022/05/23/MLbs1/"/>
+      <url>/2022/05/23/MLbs1/</url>
       
-        <content type="html"><![CDATA[<p>Here is a case of applying ML in predicting default:</p><p>In the case, I demonstrate: </p><ol><li>the pipeline of building a ML model using sklearn</li><li>the pipeline of building a NN model using Tensorflow</li><li>how to evaluate models’ performance &amp; how to explain models’ output.</li></ol><p>More info: <a href="https://github.com/phRobotGit/My-2022/tree/main/Machine%20Learning%20Bedtime%20Stories">A case of applying ML in predicting default</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-What-is-Machine-Learning-ML"><a href="#1-What-is-Machine-Learning-ML" class="headerlink" title="1. What is Machine Learning (ML)?"></a>1. What is Machine Learning (ML)?</h1><p><strong>ML (or AI) is a statistical tool for observing the world.</strong>  We human can only see how the data presents itself, but ML can help us observe the patterns behind the data (or the distribution of the generated data). Furthermore, Universal approximation theorem tells us how ML works, and Plato’s Allegory of the cave explains why we need ML.</p><p><strong>ML（或 AI）是一种观察世界的统计工具。</strong>我们人类只能看到数据如何呈现自己，但 ML 可以帮助我们观察数据背后的模式（或生成数据的分布）。 此外，通用逼近定理告诉我们机器学习是如何工作的，柏拉图的洞穴寓言解释了为什么我们需要机器学习。</p><br><p><strong>Universal approximation theorem:</strong> Mathematically speaking, any neural network architecture aims at finding any mathematical function y&#x3D; f(x) that can map attributes(x) to output(y). The accuracy of this function i.e. mapping differs depending on the distribution of the dataset and the architecture of the network employed. The function f(x) can be arbitrarily complex. The Universal Approximation Theorem tells us that Neural Networks has a kind of <strong>universality</strong> i.e. no matter what f(x) is, there is a network that can approximately approach the result and do the job! This result holds for any number of inputs and outputs.</p><p><strong>通用逼近定理</strong> 从数学上讲，任何神经网络架构都旨在找到可以将属性（x）映射到输出（y）的任何数学函数 y&#x3D; f(x)。 该函数的准确性（即映射）因数据集的分布和所采用的网络架构而异。 函数 f(x) 可以是任意复杂的。 通用逼近定理告诉我们，神经网络具有一种<strong>普遍性</strong>，即无论 f(x) 是多少，都有一个网络可以近似地逼近结果并完成工作！ 该结果适用于任意数量的输入和输出。</p><br><p><strong>Plato’s Allegory of the Cave:</strong> In the allegory “The Cave,” Socrates describes a group of people who have lived chained to the wall of a cave all their lives, facing a blank wall. The people watch shadows projected on the wall from objects passing in front of a fire behind them and give names to these shadows. The shadows are the prisoners’ reality, but are not accurate representations of the real world. The shadows represent the fragment of reality that we can normally perceive through our senses, while the objects under the sun represent the true forms of objects that we can only perceive through reason. </p><p><strong>柏拉图的洞穴寓言：</strong>在寓言“洞穴”中，苏格拉底描述了一群一生被锁在洞穴墙壁上的人，面对一堵空白的墙壁。 人们看着从他们身后的火堆前经过的物体投射在墙上的阴影，并为这些阴影命名。 阴影是囚犯的现实，但不是现实世界的准确表示。 阴影代表我们通常可以通过感官感知的现实片段，而阳光下的物体代表我们只能通过理性感知的物体的真实形式。</p><p>![](.&#x2F;MLbs1&#x2F;allegory of cave.jpg)</p><h1 id="2-Drawbacks-of-ML-Black-box"><a href="#2-Drawbacks-of-ML-Black-box" class="headerlink" title="2. Drawbacks of ML - Black box"></a>2. Drawbacks of ML - Black box</h1><p>One of the conundrums about ML is that, we want to observe the world via ML, but we human cannot understand what ML is telling us. This is why we call ML(AI) black-box models.<br>关于 ML 的难题之一是，我们想通过 ML 观察世界，但我们人类无法理解 ML 告诉我们什么。 这就是我们称之为 ML(AI) 黑盒模型的原因。<br><br></p><p>Obviously, if we want to better apply ML, we must build a bridge between ML output information and human cognitive ability. Specifically, Specifically, we need to know why the model made a certain decision, what distribution the model has learned, and how the model output will change if we change the input, etc.<br>显然，如果我们想要更好地应用 ML，就必须在 ML 输出信息和人类认知能力之间架起一座桥梁。 具体来说，具体来说，我们需要知道模型为什么会做出某个决策，模型学到了什么分布，如果我们改变输入，模型输出会如何变化等等。<br><br></p><p>We will discuss some techniques for explaining models in future articles, and we will use a case to demonstrate how the techniques can help to tune parameters and improve models.<br>我们将在以后的文章中讨论一些解释模型的技术，我们将使用一个案例来演示这些技术如何帮助调整参数和改进模型。</p><h1 id="3-Drawbacks-of-ML-Corraltion-amp-Causality"><a href="#3-Drawbacks-of-ML-Corraltion-amp-Causality" class="headerlink" title="3. Drawbacks of ML - Corraltion &amp; Causality"></a>3. Drawbacks of ML - Corraltion &amp; Causality</h1><p>Many models are built on correlation rather than causation. And Simpson’s paradox has shown us how misleading can correlation be for models and analysis.<br>许多模型是建立在相关性而不是因果关系上的。 辛普森悖论向我们展示了相关性对模型和分析的误导性。<br><br></p><p>We will discuss some techniques for building models based on causality in future articles.<br>我们将在以后的文章中讨论一些基于因果关系构建模型的技术。</p>]]></content>
       
       
       <categories>
@@ -171,6 +198,33 @@
         <tags>
             
             <tag> Investment || 投资 </tag>
+            
+            <tag> Machine Learning || 机器学习 </tag>
+            
+            <tag> Codes || 代码 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Machine Learning Bedtime Stories - (2)</title>
+      <link href="/2022/05/23/MLbs2/"/>
+      <url>/2022/05/23/MLbs2/</url>
+      
+        <content type="html"><![CDATA[<p>Here is a case of applying ML in predicting default:</p><p>In the case, I demonstrate: </p><ol><li>the pipeline of building a ML model using sklearn</li><li>the pipeline of building a NN model using Tensorflow</li><li>how to evaluate models’ performance &amp; how to explain models’ output.</li></ol><p>More info: <a href="https://github.com/phRobotGit/My-2022/tree/main/Machine%20Learning%20Bedtime%20Stories">A case of applying ML in predicting default</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machine Learning Bedtime Stories </category>
+          
+      </categories>
+      
+      
+        <tags>
             
             <tag> Machine Learning || 机器学习 </tag>
             
